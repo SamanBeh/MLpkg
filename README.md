@@ -4,7 +4,7 @@ A small and ready to use package for supervised machine learning tasks that we h
 
 **USAGE:**
 
-**python** **main.py** **-i** input_file_path
+**>> python** **main.py** **-i** input_file_path
                **-l** label_col_name
                **-o** output_root_dir
                [**-c** col_name_to_delete]
