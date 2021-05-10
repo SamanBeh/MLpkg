@@ -4,16 +4,16 @@ A small and ready to use package for supervised machine learning tasks that we h
 
 **USAGE:**
 
-python main.py -i input_file_path
-               -l label_col_name
-               -o output_root_dir
-               [-c col_name_to_delete]
-               [-s cv_splits]
-               [-r n_cv_repeats]
-               [-j n_jobs]
-               [-p output_name_postfix]
-               [-m model_names]
-               [-s 0 or 1]
+**python** **main.py** **-i** input_file_path
+               **-l** label_col_name
+               **-o** output_root_dir
+               [**-c** col_name_to_delete]
+               [**-s** cv_splits]
+               [**-r** n_cv_repeats]
+               [**-j** n_jobs]
+               [**-p** output_name_postfix]
+               [**-m** model_names]
+               [**-s** 0 or 1]
 
 **Options:**
 
